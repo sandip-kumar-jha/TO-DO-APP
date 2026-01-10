@@ -5,7 +5,7 @@ This application helps users organize daily tasks efficiently with an intuitive 
 
 The project focuses on DOM manipulation, event handling, and practical JavaScript logic, which are essential skills for frontend development roles.
 
-🌟 Key Features
+🌟 Key Features :
 
 ➕ Add new tasks
 
@@ -20,7 +20,7 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 📱 Fully responsive design
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
 1)HTML – Semantic structure
 
@@ -34,6 +34,7 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 
 todo-app/
 │
+
 ├── index.html       # Main HTML file
 
 ├── style.css        # App styling
@@ -42,7 +43,7 @@ todo-app/
 
 └── README.md        # Project documentation
 
-▶️ How to Run Locally
+▶️ How to Run Locally ->
 
 step1:--Clone the repository:
 
@@ -60,15 +61,15 @@ Start managing your tasks ✅
 
 🎯 What I Learned
 
-Creating interactive UI using JavaScript
+1)Creating interactive UI using JavaScript
 
-Handling user events (click, input, delete)
+2)Handling user events (click, input, delete)
 
-Managing application state using Local Storage
+3)Managing application state using Local Storage
 
-Writing clean and maintainable frontend code
+4)Writing clean and maintainable frontend code
 
-Improving UX with responsive design
+5)Improving UX with responsive design
 
 
 👨‍💻 Author
