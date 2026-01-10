@@ -35,8 +35,11 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 todo-app/
 │
 ├── index.html       # Main HTML file
+
 ├── style.css        # App styling
+
 ├── script.js        # JavaScript logic
+
 └── README.md        # Project documentation
 
 ▶️ How to Run Locally
