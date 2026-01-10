@@ -8,10 +8,15 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 🌟 Key Features
 
 ➕ Add new tasks
+
 ✏️ Edit existing tasks
+
 ❌ Delete tasks
+
 ✔️ Mark tasks as completed
+
 💾 Tasks saved using Local Storage (data persists on refresh)
+
 📱 Fully responsive design
 
 
