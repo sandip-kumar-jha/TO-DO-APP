@@ -16,6 +16,7 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 
 
 🛠️ Tech Stack
+
 1)HTML – Semantic structure
 
 2)CSS – Styling, layout & responsiveness
@@ -25,6 +26,7 @@ The project focuses on DOM manipulation, event handling, and practical JavaScrip
 4)Local Storage – Store tasks in browser
 
 📂 Project Structure
+
 todo-app/
 │
 ├── index.html       # Main HTML file
@@ -33,15 +35,18 @@ todo-app/
 └── README.md        # Project documentation
 
 ▶️ How to Run Locally
+
 step1:--Clone the repository:
 
 step2:--git clone https://github.com/sandip-kumar-jha/todo-app.git
 
 Open the project folder:
+
 cd todo-app
 
 
 Open index.html in any modern browser
+
 Start managing your tasks ✅
 
 
