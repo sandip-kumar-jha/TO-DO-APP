@@ -1,6 +1,6 @@
 ✅ To-Do List Web Application :-
 
-A clean and interactive To-Do List Web App built using HTML, CSS, and JavaScript.
+A clean and interactive To-Do List Web App built using HTML, CSS,JavaScript and React.
 This application helps users organize daily tasks efficiently with an intuitive and minimal user interface.
 
 The project focuses on DOM manipulation, event handling, and practical JavaScript logic, which are essential skills for frontend development roles.
